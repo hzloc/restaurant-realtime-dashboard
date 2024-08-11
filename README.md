@@ -19,7 +19,11 @@ The initial username / password is:
 - admin
 
 You directly go to the dashboards where you will see the dashboard restaurant automatically provisioned for you.
-Only thing you need to do right now is come back to the repository, and run fake data generator by command:
+Only thing you need to do right now is come back to the repository, install required libraries 
+and run fake data generator by command:
+```shell
+pip install -r requirements.txt
+```
 ```shell
 python -m src.generate
 ```
