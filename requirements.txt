@@ -1,0 +1,4 @@
+kafka_python_ng==2.2.2
+mimesis==17.0.0
+psycopg2==2.9.9
+SQLAlchemy==2.0.31
